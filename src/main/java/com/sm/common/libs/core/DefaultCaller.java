@@ -2,8 +2,6 @@ package com.sm.common.libs.core;
 
 import java.util.concurrent.Callable;
 
-import com.sm.common.libs.util.ExceptionUtil;
-
 /**
  * 默认的<code>Caller</code>实现
  * 

@@ -19,7 +19,7 @@ import org.slf4j.LoggerFactory;
  */
 public abstract class IpUtil {
 
-    private static final Logger logger = LoggerFactory.getLogger(com.sm.common.libs.util.IpUtil.class);
+    private static final Logger logger = LoggerFactory.getLogger(IpUtil.class);
 
     /**
      * 获取本机对外4位IP地址

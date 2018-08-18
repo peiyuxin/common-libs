@@ -6,8 +6,6 @@ import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.TimeUnit;
 
-import com.sm.common.libs.core.LoggerSupport;
-
 /**
  * 默认的记录池
  * 

@@ -2,8 +2,6 @@ package com.sm.common.libs.pool;
 
 import java.util.List;
 
-import com.sm.common.libs.core.LoggerSupport;
-
 /**
  * just for logger
  * 

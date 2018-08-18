@@ -3,8 +3,6 @@ package com.sm.common.libs.bus;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.sm.common.libs.core.LoggerSupport;
-
 /**
  * 总线成员的抽象类
  * 

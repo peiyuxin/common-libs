@@ -8,8 +8,6 @@ import java.util.concurrent.atomic.AtomicStampedReference;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 
-import com.sm.common.libs.core.LoggerSupport;
-
 /**
  * CompositeLock Abortable Lock
  * 

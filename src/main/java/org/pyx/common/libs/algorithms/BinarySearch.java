@@ -1,13 +1,12 @@
 /**
  * 
  */
-package com.sm.common.libs.algorithms;
+package org.pyx.common.libs.algorithms;
 
 /**
- * FIXME Arrays.binarySearch貌似有bug??
- * 
- * @author <a href="chenxu.xc@alibaba-inc.com">xc</a>
- * @version create on 2017年11月11日 上午1:25:45
+ * Bean拷贝工具类 FIXME Arrays.binarySearch貌似有bug?
+ * @author pyx
+ * @date 2018/8/8
  */
 public abstract class BinarySearch {
 

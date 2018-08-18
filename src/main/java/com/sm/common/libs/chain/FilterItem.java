@@ -3,8 +3,6 @@
  */
 package com.sm.common.libs.chain;
 
-import com.sm.common.libs.core.LoggerSupport;
-
 /**
  * 过滤器模版
  * 

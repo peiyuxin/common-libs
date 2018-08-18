@@ -6,8 +6,6 @@ package com.sm.common.libs.chain;
 import java.util.LinkedList;
 import java.util.List;
 
-import com.sm.common.libs.core.LoggerSupport;
-
 /**
  * 工作链
  * 

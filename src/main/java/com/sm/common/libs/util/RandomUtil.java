@@ -6,8 +6,6 @@ package com.sm.common.libs.util;
 import java.util.Random;
 import java.util.concurrent.Callable;
 
-import com.sm.common.libs.core.ConcurrentCache;
-
 /**
  * 有关随机数的工具类，依赖于<code>Random</code>实现
  * <p>
